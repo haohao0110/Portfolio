@@ -11,6 +11,9 @@ From supervised models to advanced neural networks, here you'll find practical i
 ## 📊 Data Analytics
 Bringing data to life with meaningful visualizations and insights. My projects cover business intelligence, data wrangling, and interactive dashboards.
 
+## ✅ Data Visualization
+The final process of everything. Making data easy to understand.
+
 ---
 
 ### 📌 About Me
