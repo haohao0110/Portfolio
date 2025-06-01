@@ -1,6 +1,6 @@
 # Howard's GitHub Portfolio
 
-Welcome to my personal GitHub portfolio, where I showcase my work in three key areas: Prompt Engineering, Machine Learning, and Data Analytics.  
+Welcome to my personal GitHub portfolio, where I showcase my work in four key areas: Prompt Engineering, Machine Learning, Data Analytics, and Data Visualization.  
 
 ## 🚀 Prompt Engineering
 Exploring the art of crafting effective prompts for AI models, including use cases in natural language processing and generative AI applications.
