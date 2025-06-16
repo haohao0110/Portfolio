@@ -17,15 +17,6 @@ This project explores NBA player and team statistics through structured SQL quer
 - **Tableau**: Visualizations built to compare player stats and team performance
 - **Jupyter Notebook (Optional)**: For additional visualization and narrative explanation
 
-## 🗂️ Project Structure
-
-```text
-nba-sql-project/
-├── data/                 # Sample data files (if any)
-├── report/               # Final slides and presentation
-├── images/               # Tableau snapshots (optional)
-├── README.md             # This file
-
 
 ## 🎯 Learning Objectives
 
