@@ -1,4 +1,4 @@
-# Ark Case Studies📖
+# Ark Case Studies 📖🛳️
 
 **Ark** was a reading and research group I founded in Fall 2021, following my summer internship at ORION Venture Partners. The group consisted of three members—myself (Howard), Tim, and Eva—and was created with the goal of developing foundational consulting skills in areas such as data interpretation, financial analysis, business modeling, and critical thinking.
 
