@@ -17,7 +17,7 @@ The final process of everything. Making data easy to understand.
 ---
 
 ### 📌 About Me
-I'm currently a Master's student in Information Technology and Analytics at Rutgers Business School, with a background in venture capital and investment banking. I'm passionate about leveraging technology to solve complex business problems, and this portfolio reflects my journey in doing so.
+I'm a grad student in Information Technology and Analytics at Rutgers Business School, with a background in venture capital and investment banking. I'm passionate about leveraging technology to solve complex business problems, and this portfolio reflects my journey in doing so.
 
 ### 🔗 Let's Connect
 Feel free to explore the repositories and reach out if you're interested in collaborations or discussions.
